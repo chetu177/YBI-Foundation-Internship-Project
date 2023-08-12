@@ -1,1 +1,1 @@
-# YBI-Foundation-Internship-Project
+# Bank_Customer_Churn_Model
